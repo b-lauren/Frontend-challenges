@@ -1,5 +1,5 @@
 # Frontend-Challenges
-Practice building responsive landing pages
+Practice building responsive landing pages with mobile first approach
 
 Huddle Landing Page Mobile
 
