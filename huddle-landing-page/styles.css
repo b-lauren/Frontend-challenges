@@ -97,6 +97,15 @@ h1 {
     background-repeat: no-repeat;
   }
 
+  .logo {
+    margin: 20px 0 0 20px;
+  }
+
+  h1 {
+    width: 60%;
+    font-size: 35px;
+  }
+
   .container {
     flex-flow: row;
     height: 100vh;
@@ -111,7 +120,11 @@ h1 {
     text-align: left;
     height: 100vh;
     margin-top: 250px;
+  }
+
+  .hero p {
     width: 70%;
+    line-height: 2;
   }
 
   .illustration-mockup {
@@ -131,6 +144,6 @@ h1 {
   }
   .socials {
     text-align: right;
-    margin-top: 250px;
+    margin-top: 60px;
   }
 }
